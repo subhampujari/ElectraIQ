@@ -24,10 +24,10 @@ Business recommendations based on real data patterns
 📁 Project Structure
 📦 ElectralIQ-Analysis
 ElectralIQ-Analysis SQL_Scripts
+ElectralIQ-Data_set
 Jupyter_Notebook
 ElectralIQ.pbix
 ElectralIQ.ipynb
-EVA_Presentation.pdf
 Dataset
 README.md
 
